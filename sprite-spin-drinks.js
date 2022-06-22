@@ -58,7 +58,7 @@
 })
   
 $(function() {
-  $('.spritespin02').spritespin({
+  $('.spritespin2').spritespin({
     source: [
       'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7a8e96f6e68656bd1b214_03%20B%26B00.png',
       'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7a8ec21ede65221bb99ce_03%20B%26B01.png',
