@@ -519,8 +519,7 @@ $(function() {
       'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7a8e87473f50d0b42ef5c_03%20B%26B40.png',
       'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7a8e8d75d5d258afd0c21_03%20B%26B41.png',
       'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7a8e999b51eb24e2974f7_03%20B%26B42.png',
-      'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7a8e9b494c4760b33b560_03%20B%26B43.png',
-      'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7a8e986509600a8841658_03%20B%26B44.png',
+      
     ],
     width: 480,
     height: 327,
