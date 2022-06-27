@@ -58,7 +58,7 @@
 })
   
 $(function() {
-  $('.spritespin02').spritespin({
+  $('.spritespin2').spritespin({
     source: [
        'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7aaedd75d5d728bfd22e2_02%20Cajita00.png',
        'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7aaf0add1bc3d3df82d91_02%20Cajita01.png',
