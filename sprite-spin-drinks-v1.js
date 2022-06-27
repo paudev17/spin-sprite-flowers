@@ -251,7 +251,7 @@ $(function() {
 $(function() {
   $('.spritespin5').spritespin({
     source: [
-        'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7ba579d4c520384235619_04%20Great%20Idea00.png
+        'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7ba579d4c520384235619_04%20Great%20Idea00.png',
         'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7ba595077acde6599e6bd_04%20Great%20Idea01.png',
         'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7ba594eb830dee9b8a079_04%20Great%20Idea02.png',
         'https://uploads-ssl.webflow.com/625ddaba860e968115bc9e05/62a7ba5adaf324795f01a783_04%20Great%20Idea03.png',
